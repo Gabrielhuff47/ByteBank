@@ -1,0 +1,28 @@
+C:\Users\gabri\Documents\IFSUL- FRONTEND\ByteBankV2\obj\Debug\net8.0\ByteBankV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\IFSUL- FRONTEND\ByteBankV2\obj\Debug\net8.0\ByteBankV2.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\IFSUL- FRONTEND\ByteBankV2\obj\Debug\net8.0\ByteBankV2.AssemblyInfo.cs
+C:\Users\gabri\Documents\IFSUL- FRONTEND\ByteBankV2\obj\Debug\net8.0\ByteBankV2.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\IFSUL- FRONTEND\ByteBankV2\bin\Debug\net8.0\ByteBankV2.exe
+C:\Users\gabri\Documents\IFSUL- FRONTEND\ByteBankV2\bin\Debug\net8.0\ByteBankV2.deps.json
+C:\Users\gabri\Documents\IFSUL- FRONTEND\ByteBankV2\bin\Debug\net8.0\ByteBankV2.runtimeconfig.json
+C:\Users\gabri\Documents\IFSUL- FRONTEND\ByteBankV2\bin\Debug\net8.0\ByteBankV2.dll
+C:\Users\gabri\Documents\IFSUL- FRONTEND\ByteBankV2\bin\Debug\net8.0\ByteBankV2.pdb
+C:\Users\gabri\Documents\IFSUL- FRONTEND\ByteBankV2\obj\Debug\net8.0\ByteBankV2.dll
+C:\Users\gabri\Documents\IFSUL- FRONTEND\ByteBankV2\obj\Debug\net8.0\refint\ByteBankV2.dll
+C:\Users\gabri\Documents\IFSUL- FRONTEND\ByteBankV2\obj\Debug\net8.0\ByteBankV2.pdb
+C:\Users\gabri\Documents\IFSUL- FRONTEND\ByteBankV2\obj\Debug\net8.0\ByteBankV2.genruntimeconfig.cache
+C:\Users\gabri\Documents\IFSUL- FRONTEND\ByteBankV2\obj\Debug\net8.0\ref\ByteBankV2.dll
+C:\Users\gabri\Documents\Projetos-C#\ByteBankV2\bin\Debug\net8.0\ByteBankV2.exe
+C:\Users\gabri\Documents\Projetos-C#\ByteBankV2\bin\Debug\net8.0\ByteBankV2.deps.json
+C:\Users\gabri\Documents\Projetos-C#\ByteBankV2\bin\Debug\net8.0\ByteBankV2.runtimeconfig.json
+C:\Users\gabri\Documents\Projetos-C#\ByteBankV2\bin\Debug\net8.0\ByteBankV2.dll
+C:\Users\gabri\Documents\Projetos-C#\ByteBankV2\bin\Debug\net8.0\ByteBankV2.pdb
+C:\Users\gabri\Documents\Projetos-C#\ByteBankV2\obj\Debug\net8.0\ByteBankV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\Projetos-C#\ByteBankV2\obj\Debug\net8.0\ByteBankV2.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\Projetos-C#\ByteBankV2\obj\Debug\net8.0\ByteBankV2.AssemblyInfo.cs
+C:\Users\gabri\Documents\Projetos-C#\ByteBankV2\obj\Debug\net8.0\ByteBankV2.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\Projetos-C#\ByteBankV2\obj\Debug\net8.0\ByteBankV2.dll
+C:\Users\gabri\Documents\Projetos-C#\ByteBankV2\obj\Debug\net8.0\refint\ByteBankV2.dll
+C:\Users\gabri\Documents\Projetos-C#\ByteBankV2\obj\Debug\net8.0\ByteBankV2.pdb
+C:\Users\gabri\Documents\Projetos-C#\ByteBankV2\obj\Debug\net8.0\ByteBankV2.genruntimeconfig.cache
+C:\Users\gabri\Documents\Projetos-C#\ByteBankV2\obj\Debug\net8.0\ref\ByteBankV2.dll
