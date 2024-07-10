@@ -26,3 +26,4 @@ C:\Users\gabri\Documents\Projetos-C#\ByteBankV2\obj\Debug\net8.0\refint\ByteBank
 C:\Users\gabri\Documents\Projetos-C#\ByteBankV2\obj\Debug\net8.0\ByteBankV2.pdb
 C:\Users\gabri\Documents\Projetos-C#\ByteBankV2\obj\Debug\net8.0\ByteBankV2.genruntimeconfig.cache
 C:\Users\gabri\Documents\Projetos-C#\ByteBankV2\obj\Debug\net8.0\ref\ByteBankV2.dll
+C:\Users\gabri\Documents\Projetos-C#\ByteBankV2\obj\Debug\net8.0\ByteBankV2.sourcelink.json
